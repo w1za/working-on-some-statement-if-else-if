@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int i;
+    cout<<"enter the value of i "<<endl;
+    cin>>i;
+
+    if(i<10) {
+        cout<<"your'e in need or want someone in your life with whome you can be able to share your secret, want someone who can really make you happy and alive "<<endl;
+
+    }
+    else if(i==10) {
+        cout<<"you enjoy your own company more then anyone else do ,but then also you feel lil bit loneliness in your damn fuckin life and thinks that why i don't have what others have "<<endl;
+    }
+    else {
+        cout<<"i know the life is sometimes depressing as fuck as i expreienced a lot of fuckin shIts thats happened wIth me in my life in recent years but never give up and believe in yourself you are gooing to get every thung you wants bud just believe that "<<endl;
+    }
+    return 0;
+}
